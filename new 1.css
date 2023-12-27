@@ -1,0 +1,43 @@
+p.tl{
+color:purple;
+text-align:center;
+text-decoration:overline  ;
+text-decoration-color:#00ffff;
+font-family:Arabic Typesetting;
+text-align:justify;
+font-size:150%;
+border-radius:30px 30px 30px  30px;
+border: 5px double;
+padding-right:650px;
+
+}
+p.aaa{
+color:red;
+text-align:center;
+text-decoration:overline  ;
+text-decoration-color:#000000;
+text-align:justify;
+font-family:Andalus;
+font-size:150%;
+}
+p.ali{
+color:blue;
+text-align:center;
+text-decoration:overline;
+text-decoration-color:#00ab12;
+font-weight:800;
+text-align:justify;
+font-family:Andalus;
+font-size:150%;
+}
+p.div{
+color:#6e1b3d;
+text-align:center;
+text-decoration:overline;
+text-decoration-color:#00ff00;
+font-weight:900;
+font-family:Andalus;
+text-align:justify;
+font-size:150%;
+padding-left:10px;
+}
